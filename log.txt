@@ -1,0 +1,17 @@
+>>> Began test at 31-01-2025 02:07:04
+Test 1:	Speed: 13.85 Mbps	Filesize: 50 MB	Duration: 30.3 s
+Test 2:	Speed: 13.78 Mbps	Filesize: 50 MB	Duration: 30.4 s
+Test 3:	Speed: 14.57 Mbps	Filesize: 50 MB	Duration: 28.8 s
+Test 4:	Speed: 12.92 Mbps	Filesize: 50 MB	Duration: 32.5 s
+========== Average: 13.78 Mbps	Tests completed: 4 ==========
+>>> Began test at 31-01-2025 02:10:31
+Test 1:	Speed: 12.84 Mbps	Filesize: 10 MB	Duration: 6.5 s
+Test 2:	Speed: 14.61 Mbps	Filesize: 10 MB	Duration: 5.7 s
+Test 3:	Speed: 13.02 Mbps	Filesize: 10 MB	Duration: 6.4 s
+Test 4:	Speed: 13.38 Mbps	Filesize: 10 MB	Duration: 6.3 s
+========== Average: 13.46 Mbps	Tests completed: 4 ==========
+>>> Began test at 31-01-2025 02:11:54
+Test 1:	Speed: 13.84 Mbps	Filesize: 10 MB	Duration: 6.1 s
+Test 2:	Speed: 13.32 Mbps	Filesize: 10 MB	Duration: 6.3 s
+Test 3:	Speed: 15.16 Mbps	Filesize: 10 MB	Duration: 5.5 s
+========== Average: 14.11 Mbps	Tests completed: 3 ==========
