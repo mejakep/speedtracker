@@ -1,4 +1,5 @@
 import argparse
+import os.path
 import datetime
 import statistics
 import math
@@ -50,6 +51,9 @@ def test(args: argparse.Namespace):
         print(output)
 
 def main():
+
+    os.chdir(os.path.dirname(__file__))
+
     parser = argparse.ArgumentParser(
         prog='Speedtracker',
         description='A program for tracking internet download speeds.'
